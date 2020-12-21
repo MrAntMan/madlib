@@ -47,3 +47,9 @@ auto
 eproject.cfg
 *.project.vim
 .vscode
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
